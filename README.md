@@ -1,6 +1,6 @@
 # Lokal_Task
 
-I have sucessfully completed the task. In this Application i have used DI, Paging3, Retrofit, Clean Architecture
+I have sucessfully completed the task. In this Application i have used DI, Paging3, Retrofit, Clean Architecture, Jetpack Compose
 
 # Preview
 ![WhatsApp Image 2023-12-06 at 6 01 29 PM (1)](https://github.com/Ayushi20-alt/Lokal_Task/assets/107174083/58dfcd86-d41f-42c0-8886-fe41ed3cd16d)
